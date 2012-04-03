@@ -5,7 +5,7 @@ license-file:    LICENSE
 author:          dan corson <danl@alum.mit.edu>
 Synopsis:        Very minimal terminal color "library"
 build-type:      Simple
-build-depends:   base, haskell98
+build-depends:   base
 
 hs-source-dirs:  src
 Exposed-modules: AnsiColor
